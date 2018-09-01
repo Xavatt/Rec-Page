@@ -6,8 +6,8 @@ En este proyecto se va hacer uso de HTML, CSS, JAVASCRIPT, PHP y el uso de Base 
 
 Este proyecto esta siendo realizado por:
 
-Xavier Guinto Rios
-Alberto Flores Ocaña
-Javier Iñiguez Quezada
-Angel Valdez
-Jafet Diaz
+Xavier Guinto Rios,
+Alberto Flores Ocaña,
+Javier Iñiguez Quezada,
+Angel Valdez,
+Jafet Diaz,
