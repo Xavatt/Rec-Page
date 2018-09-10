@@ -1,6 +1,6 @@
 # Rec-Page
 
-Proyecto de página web para empresa Rec (Proyecto Semestral)
+Proyecto para empresa Rec (Proyecto Semestral)
 
 ## Objetivo
 
