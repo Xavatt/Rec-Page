@@ -10,12 +10,13 @@ Crear una página web para una empresa llamada **Rec**, donde los clientes pueda
 
 Rec es una empresa que se dedica a grabar eventos y guardarlos para la posteridad.
 
-## Requerimientos Previstos
+## Requerimientos Previstos / Historias de Usuario
 
 -   [ ] Crear una página web
 -   [ ] La página debe ser capaz de generar citas
 -   [ ] Debe mostrar redes sociales tales como Facebook, Twitter e Instagram y el contacto del usuario
 -   [ ] La página debe mostrar videos de la empresa
+-   [ ] Que el usuario tenga en claro que tipo de diseño ya sea color, imagenes, etc. Haya en su página.
 
 ## Este proyecto esta siendo realizado por:
 
