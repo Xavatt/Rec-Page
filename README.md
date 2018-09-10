@@ -18,6 +18,10 @@ Rec es una empresa que se dedica a grabar eventos y guardarlos para la posterida
 -   [ ] La página debe mostrar videos de la empresa
 -   [ ] Que el usuario tenga en claro que tipo de diseño ya sea color, imagenes, etc. Haya en su página.
 
+## Diagrama Gantt
+
+[Para poder llevar un mejor orden de que se tiene que ir realizando, quien lo realiza y que tiempo tiene para realizarlo. Entre al siguiente link](https://github.com/Xavatt/Rec-Page/blob/master/Proyecto%20Rec%20Diagrama%20Gantt.pdf)
+
 ## Este proyecto esta siendo realizado por:
 
 -   Xavier Guinto Rios
