@@ -1,0 +1,18 @@
+body
+{
+    width: 960px;
+    margin: 0 auto;
+    text-align: center;
+}
+li
+{
+    display: inline;
+    padding: 5px;
+}
+#nav
+{
+    background-color: #5bb79f;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
