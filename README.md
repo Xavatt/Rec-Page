@@ -36,6 +36,6 @@ Crear una página web para una empresa llamada Rec, en la cual los clientes pued
 
 ## Diagrama Gantt / Plan de Proyecto
 
-[Para poder llevar un mejor orden de que se tiene que ir realizando, quien lo realiza y que tiempo tiene para realizarlo. Entre al siguiente link](https://github.com/Xavatt/Rec-Page/blob/master/Proyecto%20Rec%20Diagrama%20Gantt.pdf)
+[Para poder llevar un mejor orden de que se tiene que ir realizando, quien lo realiza y que tiempo tiene para realizarlo. Entre al siguiente link](https://github.com/Xavatt/Rec-Page/blob/master/Proyecto%20Rec.pdf)
 
 
