@@ -84,22 +84,23 @@ footer p {
   margin-bottom: .25rem;
 }
 
-.rounded-circle
-{
+.rounded-circle {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  display:block;
-  margin:auto;
+  display: block;
+  margin: auto;
 }
 
-.rounded-circle
-{
+.rounded-circle,.Logo {
   transition: all 300ms;
 }
 
-img:hover
-{
+img:hover {
   transform: scale(1.1);
+}
+
+.p_redes,.b_link,h2{
+  text-align: center;
 }
 

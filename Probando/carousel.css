@@ -114,3 +114,17 @@ h1{
 {
   text-align: right;
 }
+
+.holi
+{
+    display: block;
+    margin: auto;
+}
+
+.Logo,.holi,.first-slide,.second-slide,.third-slide {
+  transition: all 300ms;
+}
+
+img:hover {
+  transform: scale(1.1);
+}
