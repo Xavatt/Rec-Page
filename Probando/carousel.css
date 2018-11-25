@@ -99,3 +99,18 @@ h1{
 .navbar{
   background-color: rgba(92, 92, 92, 1) !important;
 }
+
+.lead
+{
+  text-align: right;
+}
+
+.featurette-heading
+{
+  text-align: right;
+}
+
+.text-muted
+{
+  text-align: right;
+}

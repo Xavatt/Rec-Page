@@ -83,3 +83,26 @@ footer {
 footer p {
   margin-bottom: .25rem;
 }
+
+.rounded-circle
+{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+}
+
+.rounded-circle
+{
+  transition: all 300ms;
+}
+
+img:hover
+{
+  transform: scale(1.1);
+}
+
+img{
+  display:block;
+  margin:auto;
+  }
