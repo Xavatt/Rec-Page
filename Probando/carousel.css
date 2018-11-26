@@ -97,9 +97,14 @@ h1{
 }
 
 .navbar{
-  background-color: rgba(92, 92, 92, 1) !important;
+  background-color: #661923 !important;
+  
 }
 
+/* Vino mas oscuro #4b1a21
+    Vino original #5e1229 
+    Vino mas ligero #762933
+    Vino  #661923*/
 .lead
 {
   text-align: right;
